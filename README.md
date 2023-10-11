@@ -8,7 +8,7 @@ Our project deals with designing a setup that makes use of acoustic sensors for 
 We have performed data collection and storage in cloud & analyzed the sensor data in Th!ingspeak IOT platform. We made use of GPS tracer, SD card for backup storage , WiFi module inside the sphere for seamless data transfer. 
 We have tested it in a static condition and yielded significant results in locating the leak of diameter more than 0.5cm.
 
-[top view](https://github.com/PHANINDRA25/Conditional-Assessment-of-Fluid-Pipelines/assets/136892334/77fd58b1-9a61-435b-b716-da43a90f8500)
+![top view](https://github.com/PHANINDRA25/Conditional-Assessment-of-Fluid-Pipelines/assets/136892334/77fd58b1-9a61-435b-b716-da43a90f8500)
 
 
 ![side view](https://github.com/PHANINDRA25/Conditional-Assessment-of-Fluid-Pipelines/assets/136892334/a6325d63-d409-433c-acb5-926437e8649a)
